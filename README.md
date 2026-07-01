@@ -416,3 +416,7 @@ Create Load Balancer
    ▼
 Access Application in Browser
 ```
+### delete cluster 
+```
+eksctl delete cluster --name mycluster --region us-east-1
+```
